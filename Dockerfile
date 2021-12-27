@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM buluma/debian:buster
 LABEL maintainer="Michael Buluma"
 
 ARG DEBIAN_FRONTEND=noninteractive
